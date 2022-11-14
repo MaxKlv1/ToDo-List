@@ -4,21 +4,21 @@ The ptoject is a simple application to save your tasks in order not to forget so
 
 ***Features***
 
-Add new task
-Read the task
-Mark task as done
-Delete task
+-Add new task
+-Read the task
+-Mark task as done
+-Delete task
 
 ***Technologies used:***
 
-Maven
-Spring
-Java
+-Maven
+-Spring
+-Java
 
 **To get started you need:**
 
-Pull the project to your device.
-Open the project in IntelliJ IDEA.
-Run the project on your device.
+-Pull the project to your device.
+-Open the project in IntelliJ IDEA.
+-Run the project on your device.
 
 *Good luck!*
