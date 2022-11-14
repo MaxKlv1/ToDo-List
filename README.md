@@ -4,10 +4,10 @@ The ptoject is a simple application to save your tasks in order not to forget so
 
 ***Features***
 ```
-- Add new task
-- Read the task
-- Mark task as done
-- Delete task
+* Add new task
+* Read the task
+* Mark task as done
+* Delete task
 ```
 ***Technologies used:***
 ```
