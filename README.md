@@ -1,6 +1,6 @@
 # ToDo-List
 
-The ptoject is a simple application to save your tasks in order not to forget something.
+The ptoject is a simple application to save your tasks in order not to forget something in your daily routine.
 
 ***Features***
 
