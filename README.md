@@ -3,12 +3,12 @@
 The ptoject is a simple application to save your tasks in order not to forget something in your daily routine.
 
 ***Features***
-```
-1. Add new task
+
+- Add new task
 2. Read the task
 3. Mark task as done
 4. Delete task
-```
+
 ***Technologies used:***
 ```
 1. Maven
