@@ -5,3 +5,5 @@ pom.xml
 .idea
 mvnw
 target
+src/main/resources/static
+src/main/resources/templates
