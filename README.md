@@ -1,5 +1,4 @@
 # ToDo-List
-Interview test
 
 The ptoject is a simple application to save your tasks in order not to forget something.
 
