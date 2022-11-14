@@ -15,7 +15,7 @@ The ptoject is a simple application to save your tasks in order not to forget so
 - Spring
 - Java
 
-**To get started you need:**
+***To get started you need:***
 
 * Pull the project to your device.
 * Open the project in IntelliJ IDEA.
