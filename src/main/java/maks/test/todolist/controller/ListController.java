@@ -29,8 +29,8 @@ public class ListController {
     }
 
     @PutMapping("/list/{id}")
-    public UpdateListDto updateList(@PathVariable Integer id, boolean isDone) {
-        return listService.updateList(id, isDone);
+    public ListDto updateList(@PathVariable Integer id, @RequestBody UpdateListDto updateListDto) {
+        return listService.updateList(id, updateListDto);
     }
 
     @DeleteMapping("/list/{id}")

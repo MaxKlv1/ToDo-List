@@ -8,6 +8,7 @@ import lombok.*;
 @EqualsAndHashCode(of = "id")
 public class List {
     int id;
+    @Setter
     String text;
     @Setter
     boolean isDone;

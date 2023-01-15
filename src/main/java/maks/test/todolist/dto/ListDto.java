@@ -7,9 +7,8 @@ import lombok.*;
 @NoArgsConstructor
 @Getter
 @Setter
-@Builder
 public class ListDto {
-    Integer id;
+    int id;
     String text;
     boolean isDone;
 }

@@ -1,12 +1,9 @@
 package maks.test.todolist.dto;
 
-import lombok.Builder;
-import lombok.Getter;
+import lombok.*;
 
 @Getter
-@Builder
 public class UpdateListDto {
-    Integer id;
     String text;
     boolean isDone;
 }

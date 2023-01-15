@@ -1,10 +1,10 @@
 package maks.test.todolist.dto;
 
-import lombok.Builder;
-import lombok.Getter;
+import lombok.*;
 
+@AllArgsConstructor
+@NoArgsConstructor
 @Getter
-@Builder
 public class RemoveListDto {
     Integer id;
     String text;

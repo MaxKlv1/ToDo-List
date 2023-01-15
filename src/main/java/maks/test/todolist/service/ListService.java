@@ -11,7 +11,7 @@ public interface ListService {
 
     ReadListDto findList(Integer id);
 
-    UpdateListDto updateList(Integer id, boolean isDone);
+    ListDto updateList(Integer id, UpdateListDto updateListDto);
 
     RemoveListDto removeList(Integer id);
 }
